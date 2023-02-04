@@ -1,4 +1,4 @@
-# JNVI-Archives
+# JNAI-Archives
 
 ## What is this?
 
